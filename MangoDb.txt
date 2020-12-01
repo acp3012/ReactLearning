@@ -1,1 +1,1 @@
-mongodb+srv://mainUser:Test1234@cluster0.yqzbr.mongodb.net/ReactCourse?retryWrites=true&w=majority
+mongodb+srv://mainUser:******@cluster0.yqzbr.mongodb.net/ReactCourse?retryWrites=true&w=majority
